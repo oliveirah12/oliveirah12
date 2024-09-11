@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliveirah12
 - 👀 I’m interested in coding, games and photographs
-- 🌱 I’m currently learning ADS - Analysis and Systems Development
+- 🌲 Analysis and Systems Development
 - 📫 How to reach me: www.instagram.com/matheus_homem/
 
 <!---
